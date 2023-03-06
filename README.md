@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola a todxs!👋
 
-<!--
-**korbal1/korbal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy Daniel Corbalán - Student Developer _(in progress!)_
 
-Here are some ideas to get you started:
+- 💫 Nací en _Buenos Aires, AR_ . 
+- 🌎 Vivo en _Santiago, CL_. -
+- 🏛️ De formación en _Ciencias Sociales_.
+- 🏥 Trabajo actualmente como administrativo en el área de la salud.
+- 🤩 Quiero aprender a programar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivo
+
+Practicar, practicar y practicar para poder considerarme **Full Stack Developer** en algún momento, y tener la posibilidad de trabajar en un ambiente agradable haciendo algo que me guste en el mundo de la programación.
+
+### Habilidades
+
+HTML, Css y JavaScript (más teoría que práctica)
+
+Saludos!
