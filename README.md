@@ -19,7 +19,26 @@ HTML, Css y JavaScript (más teoría que práctica)
 
 ---
 
-### Comandos
+### Tabla en Markdown 
+
+| Comando | Descripción   |
+|---------|---------------|
+| ls      | Sirve para... | 
+| cd      | Sirve para... | 
+| mkdir   | Sirve para... | 
+| mv      | Sirve para... | 
+| rm      | Sirve para... | 
+
+
+### Comandos alias útiles
+
+* _Listar los 10 comandos más usados en la terminal._
+
+```mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'```
+
+* _Inicializar un nuevo repositorio git._
+
+```alias ginit="git init && touch README.md .gitignore && git add ."```
 
 <!--- Crear un Github Profile README[1]
 1. Este debe tener una pequeña descripción tuya tipo CV.
